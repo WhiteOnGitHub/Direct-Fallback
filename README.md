@@ -1,5 +1,5 @@
 # Direct-Fallback
-Direct-Fallback is a dynamic link library (DLL) designed to enhance your Minecraft gameplay by enabling DirectX 11 (DX11) usage when injected into the game. Enjoy improved graphics quality, smoother rendering, and an overall more immersive gaming environment.
+Direct-Fallback is a dynamic link library (DLL) designed to enhance your Minecraft gameplay by making Minecraft fallback to DirectX 11 (DX11) usage when injected into the game. Enjoy improved graphics quality, smoother rendering, and an overall more immersive gaming environment.
 **This will not work if your PC is extremely low-end since Minecraft is already going to be using DX11.**
 
 ## How to Use
